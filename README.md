@@ -10,9 +10,10 @@ Tamanho padrão: O exemplo atual gera uma senha com 10 caracteres (variável tam
 Como executar:
 
 1. **Compilar:**
-   ```bash
+   
    javac -d build\classes src\GerarSenha\gerarSenha.java
 2. **Executar:**
+   
 java -cp build\classes GerarSenha.gerarSenha
 
 🔑Exemplo de saída:🔑
