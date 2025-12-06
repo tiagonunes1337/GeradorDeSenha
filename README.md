@@ -18,12 +18,13 @@
 Certifique-se de estar na raiz do projeto pelo terminal e ter o Java instalado.
 
 1. **Compilar o código:**
-
+    ```bash
 javac -d build\classes src\GerarSenha\gerarSenha.java
-Executar o programa:
-
-Bash
+1. **Executar o programa:**
+    ```bash  
 java -cp build\classes GerarSenha.gerarSenha
+
+
 💻 Exemplo de saída
 Ao rodar, você verá algo assim no seu terminal:
 
