@@ -39,7 +39,7 @@ Mudar o conjunto de caracteres: Edite a string caracteres para adicionar/remover
 
 Melhoria de segurança: Para uso real em produção, recomenda-se substituir Random por SecureRandom (java.security.SecureRandom) para garantir uma aleatoriedade criptograficamente segura.
 
-🤝 Contribuição
+## 🤝 Contribuição
 Fique à vontade para contribuir!
 
 Sugestões: Abra issues para pedir funções como opção de comprimento via terminal ou exportação para arquivo.
