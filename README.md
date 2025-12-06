@@ -1,3 +1,5 @@
+# 🔐 GeradorDeSenha
+
 > Um gerador de senhas simples e eficiente escrito em Java.
 
 ## 📋 Sobre o Projeto
@@ -16,18 +18,16 @@
 Certifique-se de estar na raiz do projeto pelo terminal e ter o Java instalado.
 
 1. **Compilar o código:**
-```bash
+
 javac -d build\classes src\GerarSenha\gerarSenha.java
 Executar o programa:
 
 Bash
-
 java -cp build\classes GerarSenha.gerarSenha
 💻 Exemplo de saída
 Ao rodar, você verá algo assim no seu terminal:
 
 Plaintext
-
 GERADOR DE SENHA
 Sua senha é: 4$kA@f1Z9!
 ⚙️ Personalização
@@ -38,3 +38,10 @@ Alterar tamanho: Mude o valor da variável tamanhoDaSenha no código para gerar 
 Mudar o conjunto de caracteres: Edite a string caracteres para adicionar/remover letras, números ou símbolos que deseja permitir.
 
 Melhoria de segurança: Para uso real em produção, recomenda-se substituir Random por SecureRandom (java.security.SecureRandom) para garantir uma aleatoriedade criptograficamente segura.
+
+🤝 Contribuição
+Fique à vontade para contribuir!
+
+Sugestões: Abra issues para pedir funções como opção de comprimento via terminal ou exportação para arquivo.
+
+Pull requests: Envie PRs com código limpo e testes.
