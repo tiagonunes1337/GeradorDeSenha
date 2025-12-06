@@ -30,14 +30,14 @@ Ao rodar, você verá algo assim no seu terminal:
 
 **GERADOR DE SENHA**
 Sua senha é: 4$kA@f1Z9!
-**⚙️ Personalização**
+## ⚙️ Personalização
 **Você pode adaptar o código para suas necessidades:**
 
-**Alterar tamanho:** Mude o valor da variável tamanhoDaSenha no código para gerar senhas maiores ou menores.
+## Alterar tamanho:    Mude o valor da variável tamanhoDaSenha no código para gerar senhas maiores ou menores.
 
-**Mudar o conjunto de caracteres:** Edite a string caracteres para adicionar/remover letras, números ou símbolos que deseja permitir.
+## Mudar o conjunto de caracteres:    Edite a string caracteres para adicionar/remover letras, números ou símbolos que deseja permitir.
 
-**Melhoria de segurança:** Para uso real em produção, recomenda-se substituir Random por SecureRandom (java.security.SecureRandom) para garantir uma aleatoriedade criptograficamente segura.
+## Melhoria de segurança:     Para uso real em produção, recomenda-se substituir Random por SecureRandom (java.security.SecureRandom) para garantir uma aleatoriedade criptograficamente segura.
 
 ## 🤝 Contribuição
 Fique à vontade para contribuir!
