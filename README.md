@@ -42,6 +42,4 @@ Você pode adaptar o código para suas necessidades:
 ## 🤝 Contribuição
 Fique à vontade para contribuir!
 
-Sugestões: Abra issues para pedir funções como opção de comprimento via terminal ou exportação para arquivo.
 
-Envie PRs com código limpo e testes.
